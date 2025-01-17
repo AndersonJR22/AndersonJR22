@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Anderson Junior
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou Anderson, natural do Paraná, com 19 anos de idade. Possuo formação técnica em Informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho um forte interesse por tecnologia e estou em busca de oportunidades para expandir meus conhecimentos na área de TI, com foco no desenvolvimento de soluções inovadoras e eficientes. Com dedicação e comprometimento, estou preparado para enfrentar novos desafios e contribuir positivamente para projetos de tecnologia.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
